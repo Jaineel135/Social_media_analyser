@@ -35,6 +35,8 @@ Discover Data-Driven Insights:
 
 Leverage AI-generated insights to refine social media strategies effectively.
 
+# youtube link : https://youtu.be/BUdOXzy3VIg
+
 # Thank You!
 
 
