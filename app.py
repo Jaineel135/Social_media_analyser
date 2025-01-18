@@ -79,6 +79,5 @@ def ask():
         return jsonify({"error": "An error occurred while processing your request"}), 500
 
 if __name__ == '__main__':
-    # Run the Flask app
     app.debug = True
     app.run(host='127.0.0.1', port=5000)
